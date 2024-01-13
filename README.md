@@ -1,5 +1,10 @@
 # github-final-project
-[SIMPLE INTEREST CALCULATOR](#)
+<html>
+   <head></head>
+   <body>
+      <a href="#">SIMPLE INTEREST CALCULATOR</a>
+   </body>
+</html>
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 ```
